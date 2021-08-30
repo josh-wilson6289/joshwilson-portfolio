@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef0db41a.chunk.css",
+    "main.js": "/static/js/main.e3b8176d.chunk.js",
+    "main.js.map": "/static/js/main.e3b8176d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca8a95aa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca8a95aa.js.map",
+    "static/js/2.428fd19e.chunk.js": "/static/js/2.428fd19e.chunk.js",
+    "static/js/2.428fd19e.chunk.js.map": "/static/js/2.428fd19e.chunk.js.map",
+    "static/js/3.52b6033b.chunk.js": "/static/js/3.52b6033b.chunk.js",
+    "static/js/3.52b6033b.chunk.js.map": "/static/js/3.52b6033b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ef0db41a.chunk.css.map": "/static/css/main.ef0db41a.chunk.css.map",
+    "static/js/2.428fd19e.chunk.js.LICENSE.txt": "/static/js/2.428fd19e.chunk.js.LICENSE.txt",
+    "static/media/daily-planner.647d5703.png": "/static/media/daily-planner.647d5703.png",
+    "static/media/inbloom.891a18dd.png": "/static/media/inbloom.891a18dd.png",
+    "static/media/mars1.fd6395c1.jpg": "/static/media/mars1.fd6395c1.jpg",
+    "static/media/index.css": "/static/media/nh-background-pic.fa8bd341.jpg",
+    "static/media/note-wall.ea5bf64a.jpg": "/static/media/note-wall.ea5bf64a.jpg",
+    "static/media/portfolio-pic.7feb1f8c.png": "/static/media/portfolio-pic.7feb1f8c.png",
+    "static/media/tbh.ad0071b6.jpg": "/static/media/tbh.ad0071b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca8a95aa.js",
+    "static/js/2.428fd19e.chunk.js",
+    "static/css/main.ef0db41a.chunk.css",
+    "static/js/main.e3b8176d.chunk.js"
+  ]
+}
